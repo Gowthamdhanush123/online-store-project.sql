@@ -1,7 +1,3 @@
-Here’s a **project description** you can use (or adapt) for a **SQL project** on **Online Store Management** — written in a clear, professional, and academic style:
-
----
-
 ### 🛍️ **Project Title: Online Store Management System (SQL Database Project)**
 
 **Project Description:**
@@ -37,7 +33,3 @@ The database includes the following main entities (tables):
 
 **Expected Outcome:**
 A fully functional SQL database capable of supporting an online store’s day-to-day operations, providing insights through data queries, and serving as the backend for a potential web or desktop front-end application.
-
----
-
-Would you like me to include a **sample ER diagram description** or **SQL table creation script** to go with this? It would make your project report more complete.
